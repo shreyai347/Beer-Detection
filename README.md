@@ -159,8 +159,10 @@ After running the inference, the script will output images with bounding boxes d
 
 **Example:**
 - **Input Image**: A photo of a beer 🍻
-- **Output Image**: Same photo with bounding boxes 🟩 around the beer 🍻
+  ![beer-5910451_640](https://github.com/user-attachments/assets/32093f5b-ecfd-4e90-be4d-347be14cc7b5)
 
+- **Output Image**: Same photo with bounding boxes 🟩 around the beer 🍻
+![output_beer-5910451_640](https://github.com/user-attachments/assets/18d297be-9068-4957-ac9a-359a44857c4c)
 ---
 
 ## 📸 Example Images
