@@ -1,0 +1,7 @@
+pandas 
+numpy
+Flask
+ultralytics
+opencv-python
+torch
+werkzeug
