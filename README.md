@@ -379,9 +379,9 @@ After running the inference, the script will output images with bounding boxes d
 
 ### Example:
 
-- **Input Image**: ![Beer Image 1](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-1218742_640.jpg?raw=true)
+- **Input Image**:   ![beer-5910451_640](https://github.com/user-attachments/assets/32093f5b-ecfd-4e90-be4d-347be14cc7b5)
 
-- **Output Image**: ![Output Beer Image 1](https://github.com/your-username/beer-yolo-detection/blob/main/output_images/output_beer-1218742_640.jpg?raw=true)
+- **Output Image**: ![output_beer-5910451_640](https://github.com/user-attachments/assets/18d297be-9068-4957-ac9a-359a44857c4c)
 
 ---
 
