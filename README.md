@@ -178,13 +178,6 @@ Here are some example images you can test with (make sure the paths are correct!
 - **Beer Image 4**: ![1](https://github.com/user-attachments/assets/28c8f95b-99e3-426e-a1b8-8a87c7034f4d)
 - **Beer Image 5**: ![2](https://github.com/user-attachments/assets/33ea8e9e-bbe3-4bb3-a3c1-096d412637f6)
 
-- **Beer Image 6**: Beer Image 6
-
-
-
-
-
-
 ---
 
 ## 🎉 Conclusion
