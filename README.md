@@ -170,18 +170,20 @@ After running the inference, the script will output images with bounding boxes d
 
 Here are some example images you can test with (make sure the paths are correct!):
 
-- **Beer Image 1**: Beer Image 1
-- **Beer Image 2**: Beer Image 2
-- **Beer Image 3**: Beer Image 3
-- **Beer Image 4**: Beer Image 4
-- **Beer Image 5**: Beer Image 5
+- **Beer Image 1**:
+  ![5](https://github.com/user-attachments/assets/286359ef-27bf-4035-92d5-b93df7042c65)
+- **Beer Image 2**:
+   ![3](https://github.com/user-attachments/assets/62525fbb-d451-47d5-b205-1056f76f7db6)
+- **Beer Image 3**: ![4](https://github.com/user-attachments/assets/04fd786c-0254-4235-a0d0-1cde3a4d8a79)
+- **Beer Image 4**: ![1](https://github.com/user-attachments/assets/28c8f95b-99e3-426e-a1b8-8a87c7034f4d)
+- **Beer Image 5**: ![2](https://github.com/user-attachments/assets/33ea8e9e-bbe3-4bb3-a3c1-096d412637f6)
+
 - **Beer Image 6**: Beer Image 6
 
-![5](https://github.com/user-attachments/assets/286359ef-27bf-4035-92d5-b93df7042c65)
-![3](https://github.com/user-attachments/assets/62525fbb-d451-47d5-b205-1056f76f7db6)
-![4](https://github.com/user-attachments/assets/04fd786c-0254-4235-a0d0-1cde3a4d8a79)
-![1](https://github.com/user-attachments/assets/28c8f95b-99e3-426e-a1b8-8a87c7034f4d)
-![2](https://github.com/user-attachments/assets/33ea8e9e-bbe3-4bb3-a3c1-096d412637f6)
+
+
+
+
 
 ---
 
