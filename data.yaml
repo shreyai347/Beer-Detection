@@ -1,0 +1,8 @@
+# Dataset Configuration
+
+path: '/content/drive/MyDrive/yolov11'  # Path to the dataset directory
+train: '/content/drive/MyDrive/yolov11/images/train'  # Directory for training images
+val: '/content/drive/MyDrive/yolov11/images/val'      # Directory for validation images
+
+nc: 1  # Number of classes (1 for beer detection)
+names: ['beer']  # List of class names
