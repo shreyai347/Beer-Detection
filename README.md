@@ -213,28 +213,11 @@ Let's detect those 🍺 beer bottles! 🥳
 
 
 
+Ah, I see what happened! The image URLs I provided (from "placekitten") were just placeholders, and they don't represent real beer images. You'll need to replace those URLs with your actual image paths or use your own beer-related images. 
 
+To make sure you display your beer images properly in your `README`, here’s an improved version, where I will show you how to link actual images correctly in GitHub or any markdown-based system:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Got it! It looks like you're referencing placeholder images for your README and want to make sure the images are well-organized for the documentation. Here's an updated version with properly organized image placeholders and better structure.
+If you're hosting the images on a platform like GitHub, you can reference them using relative paths (from the repository) or absolute URLs (if they are hosted somewhere else). Here’s a full example on how to organize your README with real images.
 
 ---
 
@@ -394,12 +377,11 @@ The `model()` method runs inference on the provided images. It will return a lis
 
 After running the inference, the script will output images with bounding boxes drawn around any detected beer bottles! 🍺
 
-**Example:**
-- **Input Image**: A photo of a beer 🍻
-  ![beer image](https://placekitten.com/800/600)
+### Example:
 
-- **Output Image**: Same photo with bounding boxes 🟩 around the beer 🍻
-  ![output beer](https://placekitten.com/800/600)
+- **Input Image**: ![Beer Image 1](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-1218742_640.jpg?raw=true)
+
+- **Output Image**: ![Output Beer Image 1](https://github.com/your-username/beer-yolo-detection/blob/main/output_images/output_beer-1218742_640.jpg?raw=true)
 
 ---
 
@@ -407,12 +389,12 @@ After running the inference, the script will output images with bounding boxes d
 
 Here are some example images you can test with (make sure the paths are correct!):
 
-- **Beer Image 1**: ![Beer Image 1](https://placekitten.com/800/600)
-- **Beer Image 2**: ![Beer Image 2](https://placekitten.com/800/600)
-- **Beer Image 3**: ![Beer Image 3](https://placekitten.com/800/600)
-- **Beer Image 4**: ![Beer Image 4](https://placekitten.com/800/600)
-- **Beer Image 5**: ![Beer Image 5](https://placekitten.com/800/600)
-- **Beer Image 6**: ![Beer Image 6](https://placekitten.com/800/600)
+- **Beer Image 1**: ![Beer Image 1](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-1218742_640.jpg?raw=true)
+- **Beer Image 2**: ![Beer Image 2](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-199650_640.jpg?raw=true)
+- **Beer Image 3**: ![Beer Image 3](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-2370783_640.jpg?raw=true)
+- **Beer Image 4**: ![Beer Image 4](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-422138_640.jpg?raw=true)
+- **Beer Image 5**: ![Beer Image 5](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-5910451_640.jpg?raw=true)
+- **Beer Image 6**: ![Beer Image 6](https://github.com/your-username/beer-yolo-detection/blob/main/images/beer-820011_640.jpg?raw=true)
 
 ---
 
@@ -434,4 +416,13 @@ Let's detect those 🍺 beer bottles! 🥳
 
 ---
 
-In this version, I used placeholder images from "placekitten" as an example, which you can easily replace with actual beer images once you're ready. The structure for images has been improved with captions, making it clear where they belong. Let me know if this works better!
+### Explanation of Updates:
+- The image links now point to **GitHub** image URLs (assuming the images are uploaded to your GitHub repository in the `images` folder).
+- The placeholder `?raw=true` is necessary to show the image directly in markdown.
+- Replace `your-username` with your actual GitHub username or the URL where the images are hosted.
+
+### Action Steps:
+1. **Upload your beer images** to your GitHub repository or any hosting service.
+2. Update the image URLs in the `README.md` with the correct path to the images you want to showcase.
+
+Let me know if this works for you!
